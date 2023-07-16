@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Fourlettername
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning specializations in Data Science
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me on 7518110728 or mail me on amanalyticsm@gmail.com
+
+<!---
+Fourlettername/Fourlettername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
