@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fourlettername
-- 👀 I’m interested in Data Science
+- 👀 I’m a Data Science Enthusiast, exploring my love for data.
 - 🌱 I’m currently learning specializations in Data Science
 - 📫 Reach me on 7518110728 or mail me on amanalyticsm@gmail.com
 
