@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fourlettername
 - 👀 I’m a Data Science Enthusiast, exploring my love for data.
-- 🌱 I’m currently learning specializations in Data Science
+- 🌱 I’m currently specialized in Data Science and ML Algorithms.
 - 📫 Reach me on 7518110728 or mail me on amanalyticsm@gmail.com
 
 <!---
